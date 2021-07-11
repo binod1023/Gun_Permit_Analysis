@@ -1,10 +1,10 @@
 # Gun License Analysis
 ## Introduction to this Analysis
-This is a brief analysis of gun licensing and permits given in different states of US.
+I completed this project as a part of Udacity Data Analyst Certification.
+
+This is a brief analysis of gun licensing and permits of US states.
 
 The data has been collected from National Instant Criminal Background Check System NICS. 
-
-I completed this project as a part of Udacity Data Analyst Certification.
 
 ## Outline of this Data Analysis
 Assessed data and dealed with null values and duplicate values.
