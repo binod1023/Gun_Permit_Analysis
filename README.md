@@ -1,5 +1,7 @@
 # Gun License Analysis
-[link to dataset](https://docs.google.com/spreadsheets/d/1TKbDHvosvzHMbgIeY9WYOiEEE-criPkokfkBk710C7U/edit?usp=sharing)
+
+[DATA: link to dataset](https://docs.google.com/spreadsheets/d/1TKbDHvosvzHMbgIeY9WYOiEEE-criPkokfkBk710C7U/edit?usp=sharing)
+
 ## Introduction to this Analysis
 I completed this analysis project as a part of Udacity Data Analyst Certification.
 
