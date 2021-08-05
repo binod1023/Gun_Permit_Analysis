@@ -18,6 +18,6 @@ How gun permits and re-permits were permitted by US states and gun types?
 
 Trends of gun licensing and registration by each month and each year from 1999 to 2020.
 
-Analysis on distribution of different gun types.
+Analysis and visualization on distribution of different gun types.
 
 
